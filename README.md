@@ -21,8 +21,8 @@ Follow these steps to set up and run the Handwritten Digit Recognizer on your lo
 You can download this project by cloning its Git repository. If you don't have Git installed, you can also download the project as a ZIP file from the repository's page (if available).
 
 ```
-git clone <repository_url>
-cd handwritten-digit-recognizer # Replace with your project directory name
+git clone https://github.com/Arup03NITRR/Handwritten-Digit-Recognizer.git
+cd Handwritten-Digit-Recognizer
 ```
 
 If you're creating the files manually, save the provided Python code as app.py and ensure you have the mnist_cnn.keras model file in the same directory.
